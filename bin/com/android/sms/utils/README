@@ -1,0 +1,4 @@
+
+small class to use in j2me, Android, BlackBerry, get a route by start and end locations
+
+This project uses these classes to help generate the path between two points.
